@@ -1,3 +1,4 @@
-To use: 
-(1) git submodule update --init 
-(2) cmake . && cmake --build .
+## To use: 
+ > git submodule update --init 
+
+> cmake . && cmake --build .
